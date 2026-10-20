@@ -17,7 +17,7 @@ The diagram: **[roadmap.svg](roadmap.svg)**, read left to right. It opens in any
 | S3  Feature EDA | Done | Find which measurable image properties relate to each label, and how datasets differ. | Mac CPU · ~1 day; features computed on the skin mask only |
 | S4  Classical ML | Done | The baseline every later model must beat. | Mac CPU, 4 threads · 1–2 days, minutes of compute |
 | S5  From-scratch CNN | Done | Build and train our own multi-task CNN, to understand every part. | Mac MPS · 10–19 min per run · done 20 Oct |
-| S6  Open-weight transfer | Next | How much does pretraining add, and which kind helps most? | ~3 days; expected picks A  DINOv2-B · general B  SigLIP 2 / OpenCLIP · vision-language C  FaRL · face D  DermLIP · dermatology (verify licence) E  MiVOLO v2 · age F  ConvNeXt-T · ImageNet control |
+| S6  Open-weight transfer | Next | How much does pretraining add, and which kind helps most? | ~3 days; verified picks A  DINOv2-B · general B  SigLIP 2 (+ OpenCLIP) · vision-language C  FaRL · face D  MONET · dermatology (DermLIP gated) E  MiVOLO v2 · age F  ConvNeXt-T · ImageNet control LoRA next: OpenCLIP, MONET, SigLIP 2 |
 | HF GPU? |  | only if sweeps overrun |  |
 | SCIN head/neck test set |  | 1,575 img · 737 cases · phone photos |  |
 | S7  Comparison & analysis | Planned | One honest table, and the story behind it. | Mac CPU · ~2 days; tone labels slice results only, never a model input |
