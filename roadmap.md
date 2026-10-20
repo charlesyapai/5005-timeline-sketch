@@ -15,8 +15,8 @@ The diagram: **[roadmap.svg](roadmap.svg)**, read left to right. It opens in any
 | S1  Data acquisition | Done | Get every dataset on disk with verified counts and licences. | Mac · ≈1 day · done 19 Oct |
 | S2  Data understanding & QC | Done | Know what the images and labels really are before modelling. | 201k images checked · 0 decode errors |
 | S3  Feature EDA | Done | Find which measurable image properties relate to each label, and how datasets differ. | Mac CPU · ~1 day; features computed on the skin mask only |
-| S4  Classical ML | Next | The baseline every later model must beat. | Mac CPU, 4 threads · 1–2 days, minutes of compute |
-| S5  From-scratch CNN | Planned | Build and train our own multi-task CNN, to understand every part. | Mac MPS · ≈45 min per run · ~2 days |
+| S4  Classical ML | Done | The baseline every later model must beat. | Mac CPU, 4 threads · 1–2 days, minutes of compute |
+| S5  From-scratch CNN | Next | Build and train our own multi-task CNN, to understand every part. | Mac MPS · ≈45 min per run · ~2 days |
 | S6  Open-weight transfer | Planned | How much does pretraining add, and which kind helps most? | ~3 days; expected picks A  DINOv2-B · general B  SigLIP 2 / OpenCLIP · vision-language C  FaRL · face D  DermLIP · dermatology (verify licence) E  MiVOLO v2 · age F  ConvNeXt-T · ImageNet control |
 | HF GPU? |  | only if sweeps overrun |  |
 | SCIN head/neck test set |  | 1,575 img · 737 cases · phone photos |  |

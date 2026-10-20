@@ -138,7 +138,7 @@
 <polygon points="9308.0,1190.0 9299.0,1186.0 9299.0,1194.0" fill="#1a222c"/>
 <path d="M9120.3 1229.2 C9120.3 1279.2 9144.0 1268.2 9144.0 1318.2" fill="none" stroke="#8b94a3" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="5 4"/>
 <polygon points="9144.0,1324.2 9148.0,1315.2 9140.0,1315.2" fill="#8b94a3"/>
-<path d="M9157.0 321.0 C9503.0 321.0 9497.0 709.0 9843.0 709.0" fill="none" stroke="#2a50c4" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M9216.8 321.0 C9532.9 321.0 9526.9 709.0 9843.0 709.0" fill="none" stroke="#2a50c4" stroke-width="1.6" stroke-linecap="round"/>
 <polygon points="9849.0,709.0 9840.0,705.0 9840.0,713.0" fill="#2a50c4"/>
 <path d="M9242.9 791.0 C9545.9 791.0 9539.9 731.0 9843.0 731.0" fill="none" stroke="#2a50c4" stroke-width="1.6" stroke-linecap="round"/>
 <polygon points="9849.0,731.0 9840.0,727.0 9840.0,735.0" fill="#2a50c4"/>
@@ -402,13 +402,13 @@
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="6470.7" y="699.0" font-size="11.5" font-weight="400" fill="#58626f">single-feature AUROC table</text>
 <rect x="6963.4" y="268.0" width="343.4" height="124.0" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="6985.4" y="307.0" font-size="20" font-weight="700" fill="#1a222c">S4 Classical ML</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7157.4" y="306.0" font-size="11.5" font-weight="700" fill="#b86e00" letter-spacing="0.06em">NEXT</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7157.4" y="306.0" font-size="11.5" font-weight="700" fill="#23874f" letter-spacing="0.06em">DONE</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="6985.4" y="340.6" font-size="15" font-weight="400" fill="#1a222c">The baseline every later model must beat.</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="6985.4" y="369.8" font-size="14" font-weight="400" fill="#8b94a3">–</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7001.4" y="369.8" font-size="14" font-weight="400" fill="#58626f">LR, RF, HistGB, kNN on the feature table</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7001.4" y="369.8" font-size="14" font-weight="400" fill="#58626f">LR, RF, HistGB, kNN on pixel features</text>
 <rect x="7003.4" y="688.0" width="348.7" height="144.0" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7025.4" y="727.0" font-size="20" font-weight="700" fill="#1a222c">S5 From-scratch CNN</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7259.7" y="726.0" font-size="11.5" font-weight="700" fill="#7d8699" letter-spacing="0.06em">PLANNED</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7259.7" y="726.0" font-size="11.5" font-weight="700" fill="#b86e00" letter-spacing="0.06em">NEXT</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7025.4" y="760.6" font-size="15" font-weight="400" fill="#1a222c">Build and train our own multi-task CNN, to</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7025.4" y="780.6" font-size="15" font-weight="400" fill="#1a222c">understand every part.</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7025.4" y="809.8" font-size="14" font-weight="400" fill="#8b94a3">–</text>
@@ -440,8 +440,10 @@
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8688.3" y="311.6" font-size="12.5" font-weight="700" fill="#1a222c">importance</text>
 <rect x="8846.1" y="343.8" width="147.3" height="34.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8856.1" y="364.4" font-size="12.5" font-weight="700" fill="#1a222c">learning curves vs n</text>
-<rect x="9063.4" y="303.8" width="93.6" height="34.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9073.4" y="324.4" font-size="12.5" font-weight="700" fill="#1a222c">S4 outputs/</text>
+<rect x="9063.4" y="290.8" width="153.3" height="60.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9073.4" y="311.4" font-size="12.5" font-weight="700" fill="#1a222c">S4 outputs/</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9073.4" y="326.9" font-size="11.5" font-weight="400" fill="#58626f">SCIN AUROC 0.50–0.66</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9073.4" y="341.9" font-size="11.5" font-weight="400" fill="#58626f">acne ≥ 2 AUROC 0.92</text>
 <rect x="7452.1" y="685.8" width="190.2" height="90.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7462.1" y="706.4" font-size="12.5" font-weight="700" fill="#1a222c">architecture</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7462.1" y="721.9" font-size="11.5" font-weight="400" fill="#58626f">stem conv → 4 stages</text>
