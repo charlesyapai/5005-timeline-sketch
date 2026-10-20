@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15960 2050" width="15960" height="2050" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" role="img" aria-label="SkinProfile roadmap read left to right: datasets, S1 acquisition, S2 QC, S3 feature EDA, three modelling branches S4 classical, S5 from-scratch CNN and S6 open-weight transfer, each with its individual steps, all scored once on the held-out SCIN head/neck test set, S7 comparison, and the S8 custom app (FastAPI backend, plain web frontend).">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15867 2050" width="15867" height="2050" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" role="img" aria-label="SkinProfile roadmap read left to right: datasets, S1 acquisition, S2 QC, S3 feature EDA, three modelling branches S4 classical, S5 from-scratch CNN and S6 open-weight transfer, each with its individual steps, all scored once on the held-out SCIN head/neck test set, S7 comparison, and the S8 custom app (FastAPI backend, plain web frontend).">
 <title>SkinProfile roadmap</title>
-<rect x="0" y="0" width="15960" height="2050" fill="#ffffff"/>
-<rect x="13237.9" y="492.0" width="1453.4" height="349.9" rx="16" fill="none" stroke="#8b94a3" stroke-width="1.3" stroke-dasharray="8 6"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13251.9" y="514.0" font-size="14" font-weight="700" fill="#1a222c">stages/S8_product/app/server.py · FastAPI</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13251.9" y="532.0" font-size="13" font-weight="400" fill="#58626f">plain HTML + CSS + vanilla JS on either side in app/web/</text>
+<rect x="0" y="0" width="15867" height="2050" fill="#ffffff"/>
+<rect x="13145.2" y="492.0" width="1453.4" height="349.9" rx="16" fill="none" stroke="#8b94a3" stroke-width="1.3" stroke-dasharray="8 6"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13159.2" y="514.0" font-size="14" font-weight="700" fill="#1a222c">stages/S8_product/app/server.py · FastAPI</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13159.2" y="532.0" font-size="13" font-weight="400" fill="#58626f">plain HTML + CSS + vanilla JS on either side in app/web/</text>
 <path d="M657.9 113.0 C739.4 113.0 739.4 720.0 821.0 720.0" fill="none" stroke="#8b94a3" stroke-width="1.2" stroke-linecap="round"/>
 <path d="M581.6 316.4 C701.3 316.4 701.3 720.0 821.0 720.0" fill="none" stroke="#8b94a3" stroke-width="1.2" stroke-linecap="round"/>
 <path d="M467.2 481.8 C644.1 481.8 644.1 720.0 821.0 720.0" fill="none" stroke="#8b94a3" stroke-width="1.2" stroke-linecap="round"/>
@@ -122,29 +122,29 @@
 <polygon points="8910.9,881.0 8901.9,877.0 8901.9,885.0" fill="#1a222c"/>
 <path d="M9028.7 881.0 C9078.7 881.0 9049.7 931.0 9099.7 931.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
 <polygon points="9105.7,931.0 9096.7,927.0 9096.7,935.0" fill="#1a222c"/>
-<path d="M7504.6 1500.0 C7554.6 1500.0 7548.6 1500.0 7598.6 1500.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="7604.6,1500.0 7595.6,1496.0 7595.6,1504.0" fill="#1a222c"/>
-<path d="M7834.3 1500.0 C7884.3 1500.0 7863.3 1490.0 7913.3 1490.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="7919.3,1490.0 7910.3,1486.0 7910.3,1494.0" fill="#1a222c"/>
-<path d="M8323.1 1490.0 C8373.1 1490.0 8352.1 1510.0 8402.1 1510.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="8408.1,1510.0 8399.1,1506.0 8399.1,1514.0" fill="#1a222c"/>
-<path d="M8574.3 1510.0 C8624.3 1510.0 8603.3 1490.0 8653.3 1490.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="8659.3,1490.0 8650.3,1486.0 8650.3,1494.0" fill="#1a222c"/>
-<path d="M8837.6 1490.0 C8887.6 1490.0 8866.6 1509.0 8916.6 1509.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="8922.6,1509.0 8913.6,1505.0 8913.6,1513.0" fill="#1a222c"/>
-<path d="M9126.6 1509.0 C9176.6 1509.0 9155.6 1489.0 9205.6 1489.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="9211.6,1489.0 9202.6,1485.0 9202.6,1493.0" fill="#1a222c"/>
-<path d="M9435.3 1489.0 C9485.3 1489.0 9464.3 1510.0 9514.3 1510.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="9520.3,1510.0 9511.3,1506.0 9511.3,1514.0" fill="#1a222c"/>
-<path d="M9323.5 1556.7 C9323.5 1606.7 9337.9 1595.7 9337.9 1645.7" fill="none" stroke="#8b94a3" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="5 4"/>
-<polygon points="9337.9,1651.7 9341.9,1642.7 9333.9,1642.7" fill="#8b94a3"/>
+<path d="M7506.0 1500.0 C7556.0 1500.0 7550.0 1500.0 7600.0 1500.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="7606.0,1500.0 7597.0,1496.0 7597.0,1504.0" fill="#1a222c"/>
+<path d="M7835.7 1500.0 C7885.7 1500.0 7864.7 1490.0 7914.7 1490.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="7920.7,1490.0 7911.7,1486.0 7911.7,1494.0" fill="#1a222c"/>
+<path d="M8324.5 1490.0 C8374.5 1490.0 8353.5 1510.0 8403.5 1510.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="8409.5,1510.0 8400.5,1506.0 8400.5,1514.0" fill="#1a222c"/>
+<path d="M8575.7 1510.0 C8625.7 1510.0 8604.7 1490.0 8654.7 1490.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="8660.7,1490.0 8651.7,1486.0 8651.7,1494.0" fill="#1a222c"/>
+<path d="M8839.0 1490.0 C8889.0 1490.0 8868.0 1509.0 8918.0 1509.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="8924.0,1509.0 8915.0,1505.0 8915.0,1513.0" fill="#1a222c"/>
+<path d="M9128.0 1509.0 C9178.0 1509.0 9157.0 1489.0 9207.0 1489.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="9213.0,1489.0 9204.0,1485.0 9204.0,1493.0" fill="#1a222c"/>
+<path d="M9427.5 1489.0 C9477.5 1489.0 9456.5 1510.0 9506.5 1510.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="9512.5,1510.0 9503.5,1506.0 9503.5,1514.0" fill="#1a222c"/>
+<path d="M9320.2 1564.2 C9320.2 1614.2 9339.4 1603.2 9339.4 1653.2" fill="none" stroke="#8b94a3" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="5 4"/>
+<polygon points="9339.4,1659.2 9343.4,1650.2 9335.4,1650.2" fill="#8b94a3"/>
 <path d="M9216.8 321.0 C9532.9 321.0 9526.9 709.0 9843.0 709.0" fill="none" stroke="#2a50c4" stroke-width="1.6" stroke-linecap="round"/>
 <polygon points="9849.0,709.0 9840.0,705.0 9840.0,713.0" fill="#2a50c4"/>
 <path d="M9302.4 931.0 C9575.7 931.0 9569.7 731.0 9843.0 731.0" fill="none" stroke="#2a50c4" stroke-width="1.6" stroke-linecap="round"/>
 <polygon points="9849.0,731.0 9840.0,727.0 9840.0,735.0" fill="#2a50c4"/>
 <rect x="9568.2" y="775.4" width="90.3" height="19" fill="#ffffff"/>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9573.2" y="789.4" font-size="13.5" font-weight="400" fill="#1f3d9c" font-style="italic">scored once</text>
-<path d="M9686.7 1510.0 C9767.8 1510.0 9761.8 753.0 9843.0 753.0" fill="none" stroke="#2a50c4" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M9717.8 1510.0 C9783.4 1510.0 9777.4 753.0 9843.0 753.0" fill="none" stroke="#2a50c4" stroke-width="1.6" stroke-linecap="round"/>
 <polygon points="9849.0,753.0 9840.0,749.0 9840.0,757.0" fill="#2a50c4"/>
 <path d="M657.9 135.0 C777.9 135.0 737.9 48.0 917.9 48.0 L9763.4 48.0 C9963.4 48.0 10023.4 78.0 10023.4 650.0" fill="none" stroke="#2a50c4" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="5 4"/>
 <polygon points="10023.4,658.0 10019.4,649.0 10027.4,649.0" fill="#2a50c4"/>
@@ -154,62 +154,62 @@
 <polygon points="10447.9,640.0 10438.9,636.0 10438.9,644.0" fill="#2a50c4"/>
 <rect x="10236.2" y="654.0" width="167.3" height="19" fill="#ffffff"/>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10241.2" y="668.0" font-size="13.5" font-weight="400" fill="#1f3d9c" font-style="italic">same rows, every model</text>
-<path d="M10946.9 640.0 C10996.9 640.0 10990.9 690.0 11040.9 690.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="11046.9,690.0 11037.9,686.0 11037.9,694.0" fill="#1a222c"/>
-<path d="M11222.3 690.0 C11272.3 690.0 11246.3 760.0 11296.3 760.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="11302.3,760.0 11293.3,756.0 11293.3,764.0" fill="#1a222c"/>
-<path d="M11498.6 760.0 C11548.6 760.0 11522.6 690.0 11572.6 690.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="11578.6,690.0 11569.6,686.0 11569.6,694.0" fill="#1a222c"/>
-<path d="M11726.6 690.0 C11776.6 690.0 11750.6 750.0 11800.6 750.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="11806.6,750.0 11797.6,746.0 11797.6,754.0" fill="#1a222c"/>
-<path d="M11995.7 739.3 C12075.7 739.3 12069.7 591.0 12149.7 591.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="12155.7,591.0 12146.7,587.0 12146.7,595.0" fill="#1a222c"/>
-<path d="M12341.2 591.0 C12429.9 591.0 12423.9 687.6 12512.7 687.6" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="12518.7,687.6 12509.7,683.6 12509.7,691.6" fill="#1a222c"/>
-<path d="M11995.7 746.4 C12075.7 746.4 12069.7 660.4 12149.7 660.4" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="12155.7,660.4 12146.7,656.4 12146.7,664.4" fill="#1a222c"/>
-<path d="M12291.8 660.4 C12405.3 660.4 12399.3 699.7 12512.7 699.7" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="12518.7,699.7 12509.7,695.7 12509.7,703.7" fill="#1a222c"/>
-<path d="M11995.7 753.6 C12075.7 753.6 12069.7 729.8 12149.7 729.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="12155.7,729.8 12146.7,725.8 12146.7,733.8" fill="#1a222c"/>
-<path d="M12357.7 729.8 C12438.2 729.8 12432.2 711.8 12512.7 711.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="12518.7,711.8 12509.7,707.8 12509.7,715.8" fill="#1a222c"/>
-<path d="M11995.7 760.7 C12075.7 760.7 12069.7 814.1 12149.7 814.1" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="12155.7,814.1 12146.7,810.1 12146.7,818.1" fill="#1a222c"/>
-<path d="M12369.0 814.1 C12443.9 814.1 12437.9 723.9 12512.7 723.9" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="12518.7,723.9 12509.7,719.9 12509.7,727.9" fill="#1a222c"/>
-<path d="M12662.3 705.8 C12827.8 705.8 12821.8 705.8 12987.3 705.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="12993.3,705.8 12984.3,701.8 12984.3,709.8" fill="#1a222c"/>
-<rect x="12696.2" y="679.8" width="257.2" height="19" fill="#ffffff"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12701.2" y="693.8" font-size="13.5" font-weight="400" fill="#58626f" font-style="italic">winner per target, picked on validation</text>
-<path d="M13145.5 427.5 C13145.5 551.5 13073.6 545.5 13073.6 669.6" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="13073.6,675.6 13077.6,666.6 13069.6,666.6" fill="#1a222c"/>
-<path d="M13153.9 705.8 C13208.9 705.8 13202.9 775.8 13257.9 775.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="13263.9,775.8 13254.9,771.8 13254.9,779.8" fill="#1a222c"/>
-<path d="M13389.7 775.8 C13444.7 775.8 13438.7 705.8 13493.7 705.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="13499.7,705.8 13490.7,701.8 13490.7,709.8" fill="#1a222c"/>
-<path d="M13685.4 705.8 C13740.4 705.8 13734.4 785.8 13789.4 785.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="13795.4,785.8 13786.4,781.8 13786.4,789.8" fill="#1a222c"/>
-<path d="M13943.8 785.8 C13998.3 785.8 13992.3 705.8 14046.8 705.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="14052.8,705.8 14043.8,701.8 14043.8,709.8" fill="#1a222c"/>
-<path d="M14186.3 705.8 C14241.3 705.8 14235.3 775.8 14290.3 775.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="14296.3,775.8 14287.3,771.8 14287.3,779.8" fill="#1a222c"/>
-<path d="M14422.9 775.8 C14477.9 775.8 14471.9 705.8 14526.9 705.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="14532.9,705.8 14523.9,701.8 14523.9,709.8" fill="#1a222c"/>
-<path d="M14665.3 705.8 C14720.3 705.8 14714.3 765.8 14769.3 765.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="14775.3,765.8 14766.3,761.8 14766.3,769.8" fill="#1a222c"/>
-<path d="M13766.2 566.9 C13766.2 661.2 13869.6 655.2 13869.6 749.6" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
-<polygon points="13869.6,755.6 13873.6,746.6 13865.6,746.6" fill="#1a222c"/>
-<rect x="13613.4" y="611.7" width="243.8" height="19" fill="#ffffff"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13618.4" y="625.7" font-size="13.5" font-weight="400" fill="#58626f" font-style="italic">skinscan.infer.load(), once at startup</text>
-<path d="M14932.7 765.8 C15017.7 765.8 15011.7 725.8 15096.7 725.8" fill="none" stroke="#8b94a3" stroke-width="1.2" stroke-linecap="round"/>
-<polygon points="15102.7,725.8 15093.7,721.8 15093.7,729.8" fill="#8b94a3"/>
-<rect x="14952.8" y="719.8" width="124.0" height="19" fill="#ffffff"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14957.8" y="733.8" font-size="13.5" font-weight="400" fill="#58626f" font-style="italic">hosting: local first</text>
-<path d="M15340.2 725.8 C15450.2 725.8 15444.2 725.8 15554.2 725.8" fill="none" stroke="#8b94a3" stroke-width="1.2" stroke-linecap="round"/>
-<polygon points="15560.2,725.8 15551.2,721.8 15551.2,729.8" fill="#8b94a3"/>
-<rect x="15384.8" y="699.8" width="124.8" height="19" fill="#ffffff"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15389.8" y="713.8" font-size="13.5" font-weight="400" fill="#58626f" font-style="italic">to check anything</text>
+<path d="M10833.3 640.0 C10883.3 640.0 10877.3 690.0 10927.3 690.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="10933.3,690.0 10924.3,686.0 10924.3,694.0" fill="#1a222c"/>
+<path d="M11108.7 690.0 C11158.7 690.0 11132.7 760.0 11182.7 760.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="11188.7,760.0 11179.7,756.0 11179.7,764.0" fill="#1a222c"/>
+<path d="M11384.9 760.0 C11434.9 760.0 11408.9 690.0 11458.9 690.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="11464.9,690.0 11455.9,686.0 11455.9,694.0" fill="#1a222c"/>
+<path d="M11662.4 690.0 C11712.4 690.0 11686.4 750.0 11736.4 750.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="11742.4,750.0 11733.4,746.0 11733.4,754.0" fill="#1a222c"/>
+<path d="M11903.0 739.3 C11983.0 739.3 11977.0 591.0 12057.0 591.0" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="12063.0,591.0 12054.0,587.0 12054.0,595.0" fill="#1a222c"/>
+<path d="M12248.5 591.0 C12337.2 591.0 12331.2 687.6 12420.0 687.6" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="12426.0,687.6 12417.0,683.6 12417.0,691.6" fill="#1a222c"/>
+<path d="M11903.0 746.4 C11983.0 746.4 11977.0 660.4 12057.0 660.4" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="12063.0,660.4 12054.0,656.4 12054.0,664.4" fill="#1a222c"/>
+<path d="M12199.1 660.4 C12312.6 660.4 12306.6 699.7 12420.0 699.7" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="12426.0,699.7 12417.0,695.7 12417.0,703.7" fill="#1a222c"/>
+<path d="M11903.0 753.6 C11983.0 753.6 11977.0 729.8 12057.0 729.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="12063.0,729.8 12054.0,725.8 12054.0,733.8" fill="#1a222c"/>
+<path d="M12265.0 729.8 C12345.5 729.8 12339.5 711.8 12420.0 711.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="12426.0,711.8 12417.0,707.8 12417.0,715.8" fill="#1a222c"/>
+<path d="M11903.0 760.7 C11983.0 760.7 11977.0 814.1 12057.0 814.1" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="12063.0,814.1 12054.0,810.1 12054.0,818.1" fill="#1a222c"/>
+<path d="M12276.3 814.1 C12351.2 814.1 12345.2 723.9 12420.0 723.9" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="12426.0,723.9 12417.0,719.9 12417.0,727.9" fill="#1a222c"/>
+<path d="M12569.6 705.8 C12735.1 705.8 12729.1 705.8 12894.6 705.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="12900.6,705.8 12891.6,701.8 12891.6,709.8" fill="#1a222c"/>
+<rect x="12603.5" y="679.8" width="257.2" height="19" fill="#ffffff"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12608.5" y="693.8" font-size="13.5" font-weight="400" fill="#58626f" font-style="italic">winner per target, picked on validation</text>
+<path d="M13145.5 427.5 C13145.5 551.5 12980.9 545.5 12980.9 669.6" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="12980.9,675.6 12984.9,666.6 12976.9,666.6" fill="#1a222c"/>
+<path d="M13061.2 705.8 C13116.2 705.8 13110.2 775.8 13165.2 775.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="13171.2,775.8 13162.2,771.8 13162.2,779.8" fill="#1a222c"/>
+<path d="M13297.0 775.8 C13352.0 775.8 13346.0 705.8 13401.0 705.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="13407.0,705.8 13398.0,701.8 13398.0,709.8" fill="#1a222c"/>
+<path d="M13592.7 705.8 C13647.7 705.8 13641.7 785.8 13696.7 785.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="13702.7,785.8 13693.7,781.8 13693.7,789.8" fill="#1a222c"/>
+<path d="M13851.1 785.8 C13905.6 785.8 13899.6 705.8 13954.1 705.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="13960.1,705.8 13951.1,701.8 13951.1,709.8" fill="#1a222c"/>
+<path d="M14093.6 705.8 C14148.6 705.8 14142.6 775.8 14197.6 775.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="14203.6,775.8 14194.6,771.8 14194.6,779.8" fill="#1a222c"/>
+<path d="M14330.3 775.8 C14385.3 775.8 14379.3 705.8 14434.3 705.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="14440.3,705.8 14431.3,701.8 14431.3,709.8" fill="#1a222c"/>
+<path d="M14572.6 705.8 C14627.6 705.8 14621.6 765.8 14676.6 765.8" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="14682.6,765.8 14673.6,761.8 14673.6,769.8" fill="#1a222c"/>
+<path d="M13790.8 566.9 C13790.8 661.2 13776.9 655.2 13776.9 749.6" fill="none" stroke="#1a222c" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="13776.9,755.6 13780.9,746.6 13772.9,746.6" fill="#1a222c"/>
+<rect x="13605.0" y="611.7" width="243.8" height="19" fill="#ffffff"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13610.0" y="625.7" font-size="13.5" font-weight="400" fill="#58626f" font-style="italic">skinscan.infer.load(), once at startup</text>
+<path d="M14840.0 765.8 C14925.0 765.8 14919.0 725.8 15004.0 725.8" fill="none" stroke="#8b94a3" stroke-width="1.2" stroke-linecap="round"/>
+<polygon points="15010.0,725.8 15001.0,721.8 15001.0,729.8" fill="#8b94a3"/>
+<rect x="14860.1" y="719.8" width="124.0" height="19" fill="#ffffff"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14865.1" y="733.8" font-size="13.5" font-weight="400" fill="#58626f" font-style="italic">hosting: local first</text>
+<path d="M15247.5 725.8 C15357.5 725.8 15351.5 725.8 15461.5 725.8" fill="none" stroke="#8b94a3" stroke-width="1.2" stroke-linecap="round"/>
+<polygon points="15467.5,725.8 15458.5,721.8 15458.5,729.8" fill="#8b94a3"/>
+<rect x="15292.1" y="699.8" width="124.8" height="19" fill="#ffffff"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15297.1" y="713.8" font-size="13.5" font-weight="400" fill="#58626f" font-style="italic">to check anything</text>
 <line x1="243.6" y1="1230.5" x2="306.0" y2="1212.5" stroke="#aab2be" stroke-width="1"/>
 <circle cx="306.0" cy="1212.5" r="2.6" fill="#aab2be"/>
 <line x1="1169.2" y1="609.5" x2="1169.2" y2="662.5" stroke="#aab2be" stroke-width="1"/>
@@ -230,18 +230,18 @@
 <circle cx="7152.5" cy="268.0" r="2.6" fill="#aab2be"/>
 <line x1="7155.6" y1="779.0" x2="7155.6" y2="828.0" stroke="#aab2be" stroke-width="1"/>
 <circle cx="7155.6" cy="828.0" r="2.6" fill="#aab2be"/>
-<line x1="7099.1" y1="1375.5" x2="7099.1" y2="1416.5" stroke="#aab2be" stroke-width="1"/>
-<circle cx="7099.1" cy="1416.5" r="2.6" fill="#aab2be"/>
-<line x1="7735.0" y1="1559.7" x2="7735.0" y2="1537.7" stroke="#aab2be" stroke-width="1"/>
-<circle cx="7735.0" cy="1537.7" r="2.6" fill="#aab2be"/>
+<line x1="7099.1" y1="1387.0" x2="7099.1" y2="1428.0" stroke="#aab2be" stroke-width="1"/>
+<circle cx="7099.1" cy="1428.0" r="2.6" fill="#aab2be"/>
+<line x1="7714.3" y1="1559.7" x2="7714.3" y2="1537.7" stroke="#aab2be" stroke-width="1"/>
+<circle cx="7714.3" cy="1537.7" r="2.6" fill="#aab2be"/>
 <line x1="7554.8" y1="942.2" x2="7554.8" y2="916.2" stroke="#aab2be" stroke-width="1"/>
 <circle cx="7554.8" cy="916.2" r="2.6" fill="#aab2be"/>
-<line x1="8108.6" y1="1383.8" x2="8108.6" y2="1414.8" stroke="#aab2be" stroke-width="1"/>
-<circle cx="8108.6" cy="1414.8" r="2.6" fill="#aab2be"/>
-<line x1="8820.7" y1="1563.2" x2="8820.7" y2="1535.2" stroke="#aab2be" stroke-width="1"/>
-<circle cx="8820.7" cy="1535.2" r="2.6" fill="#aab2be"/>
-<line x1="9436.6" y1="1384.3" x2="9419.3" y2="1421.3" stroke="#aab2be" stroke-width="1"/>
-<circle cx="9419.3" cy="1421.3" r="2.6" fill="#aab2be"/>
+<line x1="8110.1" y1="1383.8" x2="8110.1" y2="1414.8" stroke="#aab2be" stroke-width="1"/>
+<circle cx="8110.1" cy="1414.8" r="2.6" fill="#aab2be"/>
+<line x1="8822.1" y1="1563.2" x2="8822.1" y2="1535.2" stroke="#aab2be" stroke-width="1"/>
+<circle cx="8822.1" cy="1535.2" r="2.6" fill="#aab2be"/>
+<line x1="9438.0" y1="1376.8" x2="9411.5" y2="1413.8" stroke="#aab2be" stroke-width="1"/>
+<circle cx="9411.5" cy="1413.8" r="2.6" fill="#aab2be"/>
 <line x1="10646.4" y1="539.5" x2="10646.4" y2="592.5" stroke="#aab2be" stroke-width="1"/>
 <circle cx="10646.4" cy="592.5" r="2.6" fill="#aab2be"/>
 <line x1="13052.0" y1="301.5" x2="13052.0" y2="332.5" stroke="#aab2be" stroke-width="1"/>
@@ -256,14 +256,14 @@
 <circle cx="7184.7" cy="392.0" r="2.6" fill="#aab2be"/>
 <line x1="7225.9" y1="1000.0" x2="7225.9" y2="972.0" stroke="#aab2be" stroke-width="1"/>
 <circle cx="7225.9" cy="972.0" r="2.6" fill="#aab2be"/>
-<line x1="7285.6" y1="1611.5" x2="7285.6" y2="1583.5" stroke="#aab2be" stroke-width="1"/>
-<circle cx="7285.6" cy="1583.5" r="2.6" fill="#aab2be"/>
-<line x1="10666.6" y1="715.5" x2="10666.6" y2="687.5" stroke="#aab2be" stroke-width="1"/>
-<circle cx="10666.6" cy="687.5" r="2.6" fill="#aab2be"/>
-<line x1="13415.8" y1="290.5" x2="13415.8" y2="332.5" stroke="#aab2be" stroke-width="1"/>
-<circle cx="13415.8" cy="332.5" r="2.6" fill="#aab2be"/>
-<line x1="15715.3" y1="804.9" x2="15715.3" y2="782.9" stroke="#aab2be" stroke-width="1"/>
-<circle cx="15715.3" cy="782.9" r="2.6" fill="#aab2be"/>
+<line x1="7285.6" y1="1600.0" x2="7285.6" y2="1572.0" stroke="#aab2be" stroke-width="1"/>
+<circle cx="7285.6" cy="1572.0" r="2.6" fill="#aab2be"/>
+<line x1="10673.9" y1="715.5" x2="10673.9" y2="687.5" stroke="#aab2be" stroke-width="1"/>
+<circle cx="10673.9" cy="687.5" r="2.6" fill="#aab2be"/>
+<line x1="13453.3" y1="290.5" x2="13440.0" y2="332.5" stroke="#aab2be" stroke-width="1"/>
+<circle cx="13440.0" cy="332.5" r="2.6" fill="#aab2be"/>
+<line x1="15622.6" y1="804.9" x2="15622.6" y2="782.9" stroke="#aab2be" stroke-width="1"/>
+<circle cx="15622.6" cy="782.9" r="2.6" fill="#aab2be"/>
 <rect x="290.0" y="31.3" width="367.9" height="185.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="304.0" y="58.9" font-size="16" font-weight="700" fill="#1a222c">SCIN</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="304.0" y="77.7" font-size="13.5" font-weight="400" fill="#58626f">10,379 img · 5,033 cases · phone photos, anchor set</text>
@@ -432,14 +432,13 @@
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7025.4" y="920.6" font-size="15" font-weight="400" fill="#1a222c">understand every part.</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7025.4" y="949.8" font-size="14" font-weight="400" fill="#8b94a3">–</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7041.4" y="949.8" font-size="14" font-weight="400" fill="#58626f">2.44 M params, 5 heads, 4 runs</text>
-<rect x="7043.4" y="1416.5" width="461.2" height="167.0" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7065.4" y="1455.5" font-size="20" font-weight="700" fill="#1a222c">S6 Open-weight</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7065.4" y="1478.5" font-size="20" font-weight="700" fill="#1a222c">transfer</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7155.5" y="1477.5" font-size="11.5" font-weight="700" fill="#b86e00" letter-spacing="0.06em">IN PROGRESS · probes done · LoRA 2/4 runs done</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7065.4" y="1512.1" font-size="15" font-weight="400" fill="#1a222c">How much does pretraining add, and which</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7065.4" y="1532.1" font-size="15" font-weight="400" fill="#1a222c">kind helps most?</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7065.4" y="1561.3" font-size="14" font-weight="400" fill="#8b94a3">–</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7081.4" y="1561.3" font-size="14" font-weight="400" fill="#58626f">zero-shot → frozen probe → LoRA (top 3)</text>
+<rect x="7043.4" y="1428.0" width="462.6" height="144.0" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7065.4" y="1467.0" font-size="20" font-weight="700" fill="#1a222c">S6 Open-weight transfer</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7325.1" y="1466.0" font-size="11.5" font-weight="700" fill="#23874f" letter-spacing="0.06em">DONE · ablation skipped</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7065.4" y="1500.6" font-size="15" font-weight="400" fill="#1a222c">How much does pretraining add, and which</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7065.4" y="1520.6" font-size="15" font-weight="400" fill="#1a222c">kind helps most?</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7065.4" y="1549.8" font-size="14" font-weight="400" fill="#8b94a3">–</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7081.4" y="1549.8" font-size="14" font-weight="400" fill="#58626f">zero-shot → frozen probe → LoRA (top 3)</text>
 <rect x="7406.8" y="283.8" width="151.3" height="34.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7416.8" y="304.4" font-size="12.5" font-weight="700" fill="#1a222c">standardise features</text>
 <rect x="7628.0" y="338.3" width="148.7" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
@@ -500,142 +499,144 @@
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9115.7" y="929.4" font-size="11.5" font-weight="400" fill="#58626f">on the last conv layer</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9115.7" y="944.4" font-size="11.5" font-weight="400" fill="#58626f">acne QWK 0.83 · age MAE 8.3 y</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9115.7" y="959.4" font-size="11.5" font-weight="400" fill="#58626f">SCIN signs AUROC 0.49–0.57</text>
-<rect x="7604.6" y="1462.3" width="229.7" height="75.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7614.6" y="1482.9" font-size="12.5" font-weight="700" fill="#1a222c">1 · score the matrix</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7614.6" y="1498.4" font-size="11.5" font-weight="400" fill="#58626f">8 criteria × 0–2, 14 candidates</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7614.6" y="1513.4" font-size="11.5" font-weight="400" fill="#58626f">licences + weights verified 20 Oct</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7614.6" y="1528.4" font-size="11.5" font-weight="400" fill="#58626f">DermLIP gated: needs login → skipped</text>
-<rect x="7919.3" y="1414.8" width="403.8" height="150.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7929.3" y="1435.4" font-size="12.5" font-weight="700" fill="#1a222c">2 · how each loads</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7929.3" y="1450.9" font-size="11.5" font-weight="400" fill="#58626f">DINOv2: transformers facebook/dinov2-base · Apache-2.0</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7929.3" y="1465.9" font-size="11.5" font-weight="400" fill="#58626f">SigLIP 2: transformers google/siglip2-base-patch16-224 · Apache-2.0</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7929.3" y="1480.9" font-size="11.5" font-weight="400" fill="#58626f">OpenCLIP: open_clip ViT-B-16 laion2b_s34b_b88k · MIT</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7929.3" y="1495.9" font-size="11.5" font-weight="400" fill="#58626f">FaRL: GitHub release ep64 → open_clip ViT-B-16-quickgelu · MIT</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7929.3" y="1510.9" font-size="11.5" font-weight="400" fill="#58626f">MONET: transformers suinleelab/monet (L/14) · CC BY-NC-SA</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7929.3" y="1525.9" font-size="11.5" font-weight="400" fill="#58626f">DermLIP: HF gated (needs login) · CC BY-NC(-ND) · skipped</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7929.3" y="1540.9" font-size="11.5" font-weight="400" fill="#58626f">MiVOLO v2: HF iitolstykh/mivolo_v2 + GitHub code · Apache-2.0</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7929.3" y="1555.9" font-size="11.5" font-weight="400" fill="#58626f">ConvNeXt-T: timm convnext_tiny.fb_in22k_ft_in1k · Apache-2.0</text>
-<rect x="8408.1" y="1457.3" width="166.2" height="105.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8418.1" y="1477.9" font-size="12.5" font-weight="700" fill="#1a222c">3 · zero-shot (B, D)</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8418.1" y="1493.4" font-size="11.5" font-weight="400" fill="#58626f">prompt sets per sign,</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8418.1" y="1508.4" font-size="11.5" font-weight="400" fill="#58626f">6 templates × 3 phrasings,</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8418.1" y="1523.4" font-size="11.5" font-weight="400" fill="#58626f">softmax, chosen on val</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8418.1" y="1538.4" font-size="11.5" font-weight="400" fill="#58626f">best SCIN: erythema .62,</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8418.1" y="1553.4" font-size="11.5" font-weight="400" fill="#58626f">hyperpigm. .81 (MONET)</text>
-<rect x="8659.3" y="1444.8" width="178.3" height="90.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8669.3" y="1465.4" font-size="12.5" font-weight="700" fill="#1a222c">4 · frozen probes</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8669.3" y="1480.9" font-size="11.5" font-weight="400" fill="#58626f">embed raw + SoG</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8669.3" y="1495.9" font-size="11.5" font-weight="400" fill="#58626f">CLS + mean-patch, L2-norm</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8669.3" y="1510.9" font-size="11.5" font-weight="400" fill="#58626f">logistic / ridge per target</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8669.3" y="1525.9" font-size="11.5" font-weight="400" fill="#58626f">per-tone slices · all 7 done</text>
-<rect x="8922.6" y="1471.3" width="204.0" height="75.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8932.6" y="1491.9" font-size="12.5" font-weight="700" fill="#1a222c">5 · source probe</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8932.6" y="1507.4" font-size="11.5" font-weight="400" fill="#58626f">“which dataset?” per backbone</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8932.6" y="1522.4" font-size="11.5" font-weight="400" fill="#58626f">0.91 (MiVOLO) – 0.96 (OpenCLIP)</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8932.6" y="1537.4" font-size="11.5" font-weight="400" fill="#58626f">chance 0.14 · done</text>
-<rect x="9211.6" y="1421.3" width="223.8" height="135.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9221.6" y="1441.9" font-size="12.5" font-weight="700" fill="#1a222c">6 · LoRA on the top 3</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9221.6" y="1457.4" font-size="11.5" font-weight="400" fill="#58626f">own LoRA on attention q, v</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9221.6" y="1472.4" font-size="11.5" font-weight="400" fill="#58626f">r 16, α 32, all blocks</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9221.6" y="1487.4" font-size="11.5" font-weight="400" fill="#58626f">OpenCLIP done · SigLIP 2 done</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9221.6" y="1502.4" font-size="11.5" font-weight="400" fill="#58626f">MONET running · last-2 ablation next</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9221.6" y="1517.4" font-size="11.5" font-weight="400" fill="#58626f">S5 heads, losses, sampler reused</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9221.6" y="1532.4" font-size="11.5" font-weight="400" fill="#58626f">early stop on val loss AND</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9221.6" y="1547.4" font-size="11.5" font-weight="400" fill="#58626f">composite</text>
-<rect x="9520.3" y="1464.8" width="166.3" height="90.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9530.3" y="1485.4" font-size="12.5" font-weight="700" fill="#1a222c">7 · winner per target</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9530.3" y="1500.9" font-size="11.5" font-weight="400" fill="#58626f">picked on validation</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9530.3" y="1515.9" font-size="11.5" font-weight="400" fill="#58626f">export state_dict, config,</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9530.3" y="1530.9" font-size="11.5" font-weight="400" fill="#58626f">preprocessing params,</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9530.3" y="1545.9" font-size="11.5" font-weight="400" fill="#58626f">model card → models/final/</text>
-<rect x="9251.6" y="1651.7" width="172.7" height="60.4" rx="10" fill="#ffffff" stroke="#8b94a3" stroke-width="1.3" stroke-dasharray="6 5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9265.6" y="1679.3" font-size="16" font-weight="700" fill="#1a222c">HF GPU?</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9265.6" y="1698.1" font-size="13.5" font-weight="400" fill="#58626f">only if sweeps overrun</text>
+<rect x="7606.0" y="1462.3" width="229.7" height="75.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7616.0" y="1482.9" font-size="12.5" font-weight="700" fill="#1a222c">1 · score the matrix</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7616.0" y="1498.4" font-size="11.5" font-weight="400" fill="#58626f">8 criteria × 0–2, 14 candidates</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7616.0" y="1513.4" font-size="11.5" font-weight="400" fill="#58626f">licences + weights verified 20 Oct</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7616.0" y="1528.4" font-size="11.5" font-weight="400" fill="#58626f">DermLIP gated: needs login → skipped</text>
+<rect x="7920.7" y="1414.8" width="403.8" height="150.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7930.7" y="1435.4" font-size="12.5" font-weight="700" fill="#1a222c">2 · how each loads</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7930.7" y="1450.9" font-size="11.5" font-weight="400" fill="#58626f">DINOv2: transformers facebook/dinov2-base · Apache-2.0</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7930.7" y="1465.9" font-size="11.5" font-weight="400" fill="#58626f">SigLIP 2: transformers google/siglip2-base-patch16-224 · Apache-2.0</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7930.7" y="1480.9" font-size="11.5" font-weight="400" fill="#58626f">OpenCLIP: open_clip ViT-B-16 laion2b_s34b_b88k · MIT</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7930.7" y="1495.9" font-size="11.5" font-weight="400" fill="#58626f">FaRL: GitHub release ep64 → open_clip ViT-B-16-quickgelu · MIT</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7930.7" y="1510.9" font-size="11.5" font-weight="400" fill="#58626f">MONET: transformers suinleelab/monet (L/14) · CC BY-NC-SA</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7930.7" y="1525.9" font-size="11.5" font-weight="400" fill="#58626f">DermLIP: HF gated (needs login) · CC BY-NC(-ND) · skipped</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7930.7" y="1540.9" font-size="11.5" font-weight="400" fill="#58626f">MiVOLO v2: HF iitolstykh/mivolo_v2 + GitHub code · Apache-2.0</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7930.7" y="1555.9" font-size="11.5" font-weight="400" fill="#58626f">ConvNeXt-T: timm convnext_tiny.fb_in22k_ft_in1k · Apache-2.0</text>
+<rect x="8409.5" y="1457.3" width="166.2" height="105.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8419.5" y="1477.9" font-size="12.5" font-weight="700" fill="#1a222c">3 · zero-shot (B, D)</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8419.5" y="1493.4" font-size="11.5" font-weight="400" fill="#58626f">prompt sets per sign,</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8419.5" y="1508.4" font-size="11.5" font-weight="400" fill="#58626f">6 templates × 3 phrasings,</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8419.5" y="1523.4" font-size="11.5" font-weight="400" fill="#58626f">softmax, chosen on val</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8419.5" y="1538.4" font-size="11.5" font-weight="400" fill="#58626f">best SCIN: erythema .62,</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8419.5" y="1553.4" font-size="11.5" font-weight="400" fill="#58626f">hyperpigm. .81 (MONET)</text>
+<rect x="8660.7" y="1444.8" width="178.3" height="90.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8670.7" y="1465.4" font-size="12.5" font-weight="700" fill="#1a222c">4 · frozen probes</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8670.7" y="1480.9" font-size="11.5" font-weight="400" fill="#58626f">embed raw + SoG</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8670.7" y="1495.9" font-size="11.5" font-weight="400" fill="#58626f">CLS + mean-patch, L2-norm</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8670.7" y="1510.9" font-size="11.5" font-weight="400" fill="#58626f">logistic / ridge per target</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8670.7" y="1525.9" font-size="11.5" font-weight="400" fill="#58626f">per-tone slices · all 7 done</text>
+<rect x="8924.0" y="1471.3" width="204.0" height="75.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8934.0" y="1491.9" font-size="12.5" font-weight="700" fill="#1a222c">5 · source probe</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8934.0" y="1507.4" font-size="11.5" font-weight="400" fill="#58626f">“which dataset?” per backbone</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8934.0" y="1522.4" font-size="11.5" font-weight="400" fill="#58626f">0.91 (MiVOLO) – 0.96 (OpenCLIP)</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8934.0" y="1537.4" font-size="11.5" font-weight="400" fill="#58626f">chance 0.14 · done</text>
+<rect x="9213.0" y="1413.8" width="214.5" height="150.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9223.0" y="1434.4" font-size="12.5" font-weight="700" fill="#1a222c">6 · LoRA on the top 3</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9223.0" y="1449.9" font-size="11.5" font-weight="400" fill="#58626f">own LoRA on attention q, v</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9223.0" y="1464.9" font-size="11.5" font-weight="400" fill="#58626f">r 16, α 32, all blocks</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9223.0" y="1479.9" font-size="11.5" font-weight="400" fill="#58626f">OpenCLIP 71 min · SigLIP 2 89 min</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9223.0" y="1494.9" font-size="11.5" font-weight="400" fill="#58626f">MONET 236 min · last-2 ablation</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9223.0" y="1509.9" font-size="11.5" font-weight="400" fill="#58626f">skipped (heat)</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9223.0" y="1524.9" font-size="11.5" font-weight="400" fill="#58626f">S5 heads, losses, sampler reused</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9223.0" y="1539.9" font-size="11.5" font-weight="400" fill="#58626f">early stop on val loss AND</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9223.0" y="1554.9" font-size="11.5" font-weight="400" fill="#58626f">composite</text>
+<rect x="9512.5" y="1457.3" width="205.3" height="105.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9522.5" y="1477.9" font-size="12.5" font-weight="700" fill="#1a222c">7 · winner per target</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9522.5" y="1493.4" font-size="11.5" font-weight="400" fill="#58626f">picked on validation in S7</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9522.5" y="1508.4" font-size="11.5" font-weight="400" fill="#58626f">→ MONET LoRA (7 of 8 targets)</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9522.5" y="1523.4" font-size="11.5" font-weight="400" fill="#58626f">export state_dict, config,</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9522.5" y="1538.4" font-size="11.5" font-weight="400" fill="#58626f">preprocessing,</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9522.5" y="1553.4" font-size="11.5" font-weight="400" fill="#58626f">model card → models/final/monet/</text>
+<rect x="9253.0" y="1659.2" width="172.7" height="60.4" rx="10" fill="#ffffff" stroke="#8b94a3" stroke-width="1.3" stroke-dasharray="6 5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9267.0" y="1686.8" font-size="16" font-weight="700" fill="#1a222c">HF GPU?</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9267.0" y="1705.6" font-size="13.5" font-weight="400" fill="#58626f">only if sweeps overrun</text>
 <rect x="9849.0" y="658.0" width="348.9" height="124.0" rx="10" fill="#eef2fd" stroke="#2a50c4" stroke-width="2"/>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9871.0" y="697.0" font-size="20" font-weight="700" fill="#1f3d9c">SCIN head/neck test set</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9871.0" y="730.6" font-size="15" font-weight="400" fill="#1a222c">1,575 img · 737 cases · phone photos</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9871.0" y="759.8" font-size="14" font-weight="700" fill="#1f3d9c">never trained on · each model scored once</text>
-<rect x="10447.9" y="592.5" width="499.0" height="95.0" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<rect x="10447.9" y="592.5" width="385.4" height="95.0" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10469.9" y="631.5" font-size="20" font-weight="700" fill="#1a222c">S7 Comparison &amp; analysis</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10745.3" y="630.5" font-size="11.5" font-weight="700" fill="#b86e00" letter-spacing="0.06em">v1 DONE · v2 pending LoRA</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10745.3" y="630.5" font-size="11.5" font-weight="700" fill="#23874f" letter-spacing="0.06em">DONE (v2)</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10469.9" y="665.1" font-size="15" font-weight="400" fill="#1a222c">One honest table, and the story behind it.</text>
-<rect x="11046.9" y="667.3" width="175.4" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="11056.9" y="687.9" font-size="12.5" font-weight="700" fill="#1a222c">predictions per model</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="11056.9" y="703.4" font-size="11.5" font-weight="400" fill="#58626f">parquet → S7 outputs/preds/</text>
-<rect x="11302.3" y="737.3" width="196.2" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="11312.3" y="757.9" font-size="12.5" font-weight="700" fill="#1a222c">one metrics script</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="11312.3" y="773.4" font-size="11.5" font-weight="400" fill="#58626f">AUROC, sens@90 % spec, ECE</text>
-<rect x="11578.6" y="667.3" width="148.0" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="11588.6" y="687.9" font-size="12.5" font-weight="700" fill="#1a222c">temperature scaling</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="11588.6" y="703.4" font-size="11.5" font-weight="400" fill="#58626f">fitted on val</text>
-<rect x="11806.6" y="727.3" width="189.1" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="11816.6" y="747.9" font-size="12.5" font-weight="700" fill="#1a222c">bootstrap</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="11816.6" y="763.4" font-size="11.5" font-weight="400" fill="#58626f">by case: 300 now, 1,000 for v2</text>
-<rect x="12155.7" y="568.3" width="185.5" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12165.7" y="588.9" font-size="12.5" font-weight="700" fill="#1a222c">fairness slices</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12165.7" y="604.4" font-size="11.5" font-weight="400" fill="#58626f">Monk, FST, n, best–worst gap</text>
-<rect x="12155.7" y="637.7" width="136.1" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12165.7" y="658.3" font-size="12.5" font-weight="700" fill="#1a222c">domain-shift table</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12165.7" y="673.8" font-size="11.5" font-weight="400" fill="#58626f">clinic → phone</text>
-<rect x="12155.7" y="707.1" width="202.0" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12165.7" y="727.7" font-size="12.5" font-weight="700" fill="#1a222c">Grad-CAM / attention rollout</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12165.7" y="743.1" font-size="11.5" font-weight="400" fill="#58626f">figure</text>
-<rect x="12155.7" y="776.4" width="213.3" height="75.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12165.7" y="797.1" font-size="12.5" font-weight="700" fill="#1a222c">multi-frame</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12165.7" y="812.5" font-size="11.5" font-weight="400" fill="#58626f">SCIN cases with 2–3 photos</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12165.7" y="827.5" font-size="11.5" font-weight="400" fill="#58626f">mean-prob vs max vs single frame,</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12165.7" y="842.5" font-size="11.5" font-weight="400" fill="#58626f">agreement</text>
-<rect x="12518.7" y="675.6" width="143.6" height="60.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12528.7" y="696.2" font-size="12.5" font-weight="700" fill="#1a222c">S7 outputs/</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12528.7" y="711.6" font-size="11.5" font-weight="400" fill="#58626f">tables + figures for the</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12528.7" y="726.6" font-size="11.5" font-weight="400" fill="#58626f">results slides</text>
+<rect x="10933.3" y="667.3" width="175.4" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10943.3" y="687.9" font-size="12.5" font-weight="700" fill="#1a222c">predictions per model</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10943.3" y="703.4" font-size="11.5" font-weight="400" fill="#58626f">parquet → S7 outputs/preds/</text>
+<rect x="11188.7" y="737.3" width="196.2" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="11198.7" y="757.9" font-size="12.5" font-weight="700" fill="#1a222c">one metrics script</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="11198.7" y="773.4" font-size="11.5" font-weight="400" fill="#58626f">AUROC, sens@90 % spec, ECE</text>
+<rect x="11464.9" y="667.3" width="197.4" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="11474.9" y="687.9" font-size="12.5" font-weight="700" fill="#1a222c">calibration</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="11474.9" y="703.4" font-size="11.5" font-weight="400" fill="#58626f">temperature + Platt, fitted on val</text>
+<rect x="11742.4" y="727.3" width="160.6" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="11752.4" y="747.9" font-size="12.5" font-weight="700" fill="#1a222c">bootstrap</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="11752.4" y="763.4" font-size="11.5" font-weight="400" fill="#58626f">by case: 1,000 resamples</text>
+<rect x="12063.0" y="568.3" width="185.5" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12073.0" y="588.9" font-size="12.5" font-weight="700" fill="#1a222c">fairness slices</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12073.0" y="604.4" font-size="11.5" font-weight="400" fill="#58626f">Monk, FST, n, best–worst gap</text>
+<rect x="12063.0" y="637.7" width="136.1" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12073.0" y="658.3" font-size="12.5" font-weight="700" fill="#1a222c">domain-shift table</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12073.0" y="673.8" font-size="11.5" font-weight="400" fill="#58626f">clinic → phone</text>
+<rect x="12063.0" y="707.1" width="202.0" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12073.0" y="727.7" font-size="12.5" font-weight="700" fill="#1a222c">Grad-CAM / attention rollout</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12073.0" y="743.1" font-size="11.5" font-weight="400" fill="#58626f">figure</text>
+<rect x="12063.0" y="776.4" width="213.3" height="75.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12073.0" y="797.1" font-size="12.5" font-weight="700" fill="#1a222c">multi-frame</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12073.0" y="812.5" font-size="11.5" font-weight="400" fill="#58626f">SCIN cases with 2–3 photos</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12073.0" y="827.5" font-size="11.5" font-weight="400" fill="#58626f">mean-prob vs max vs single frame,</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12073.0" y="842.5" font-size="11.5" font-weight="400" fill="#58626f">agreement</text>
+<rect x="12426.0" y="675.6" width="143.6" height="60.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12436.0" y="696.2" font-size="12.5" font-weight="700" fill="#1a222c">S7 outputs/</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12436.0" y="711.6" font-size="11.5" font-weight="400" fill="#58626f">tables + figures for the</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12436.0" y="726.6" font-size="11.5" font-weight="400" fill="#58626f">results slides</text>
 <rect x="12835.0" y="332.5" width="621.0" height="95.0" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12857.0" y="371.5" font-size="20" font-weight="700" fill="#1a222c">S8 Product composition</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13112.7" y="370.5" font-size="11.5" font-weight="700" fill="#b86e00" letter-spacing="0.06em">BUILT on placeholder · winner pending</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13112.7" y="370.5" font-size="11.5" font-weight="700" fill="#b86e00" letter-spacing="0.06em">WINNER INSTALLED · restyle + hosting pending</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12857.0" y="405.1" font-size="15" font-weight="400" fill="#1a222c">A small custom app the group can restyle: FastAPI backend, plain web frontend.</text>
-<rect x="12993.3" y="675.6" width="160.6" height="60.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13003.3" y="696.2" font-size="12.5" font-weight="700" fill="#1a222c">app/web/ · capture</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13003.3" y="711.6" font-size="11.5" font-weight="400" fill="#58626f">camera via getUserMedia</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13003.3" y="726.6" font-size="11.5" font-weight="400" fill="#58626f">several frames per scan</text>
-<rect x="13263.9" y="753.1" width="125.8" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13273.9" y="773.7" font-size="12.5" font-weight="700" fill="#1a222c">POST /predict</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13273.9" y="789.1" font-size="11.5" font-weight="400" fill="#58626f">frames as multipart</text>
-<rect x="13499.7" y="675.6" width="185.7" height="60.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13509.7" y="696.2" font-size="12.5" font-weight="700" fill="#1a222c">skinscan.preprocess</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13509.7" y="711.6" font-size="11.5" font-weight="400" fill="#58626f">reused: 478 landmarks → crop</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13509.7" y="726.6" font-size="11.5" font-weight="400" fill="#58626f">→ skin mask → Shades-of-Gray</text>
-<rect x="13795.4" y="755.6" width="148.4" height="60.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13805.4" y="776.2" font-size="12.5" font-weight="700" fill="#1a222c">backbone + 5 heads</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13805.4" y="791.6" font-size="11.5" font-weight="400" fill="#58626f">S6 winner</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13805.4" y="806.6" font-size="11.5" font-weight="400" fill="#58626f">per-frame predictions</text>
-<rect x="14052.8" y="683.1" width="133.5" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14062.8" y="703.7" font-size="12.5" font-weight="700" fill="#1a222c">aggregate frames</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14062.8" y="719.1" font-size="11.5" font-weight="400" fill="#58626f">per-frame → per-face</text>
-<rect x="14296.3" y="745.6" width="126.6" height="60.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14306.3" y="766.2" font-size="12.5" font-weight="700" fill="#1a222c">rules engine</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14306.3" y="781.6" font-size="11.5" font-weight="400" fill="#58626f">reads rules.yaml:</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14306.3" y="796.6" font-size="11.5" font-weight="400" fill="#58626f">notes with citations</text>
-<rect x="14532.9" y="683.1" width="132.4" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14542.9" y="703.7" font-size="12.5" font-weight="700" fill="#1a222c">JSON profile</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14542.9" y="719.1" font-size="11.5" font-weight="400" fill="#58626f">returned to the page</text>
-<rect x="14775.3" y="728.1" width="157.4" height="75.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14785.3" y="748.7" font-size="12.5" font-weight="700" fill="#1a222c">app/web/ · results</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14785.3" y="764.1" font-size="11.5" font-weight="400" fill="#58626f">per-sign confidence bars</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14785.3" y="779.1" font-size="11.5" font-weight="400" fill="#58626f">“not a diagnosis” banner</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14785.3" y="794.1" font-size="11.5" font-weight="400" fill="#58626f">CSS tokens to restyle</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13721.0" y="563.5" font-size="13.5" font-weight="700" fill="#1a222c">models/final/</text>
-<rect x="15102.7" y="668.5" width="237.5" height="114.4" rx="10" fill="#ffffff" stroke="#8b94a3" stroke-width="1.3" stroke-dasharray="6 5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15116.7" y="696.1" font-size="16" font-weight="700" fill="#1a222c">later hosting (optional)</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15116.7" y="715.0" font-size="13.5" font-weight="400" fill="#58626f">HF Space (Docker SDK, CPU)</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15116.7" y="733.0" font-size="13.5" font-weight="400" fill="#58626f">or any small VPS</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15116.7" y="751.0" font-size="13.5" font-weight="400" fill="#58626f">weights pulled from a private HF</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15116.7" y="769.0" font-size="13.5" font-weight="400" fill="#58626f">model repo via a token secret</text>
-<rect x="15560.2" y="668.5" width="271.2" height="114.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15574.2" y="696.1" font-size="16" font-weight="700" fill="#1a222c">Inspect</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15574.2" y="715.0" font-size="13.5" font-weight="400" fill="#58626f">docs/CATALOGUE.md (master index)</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15574.2" y="733.0" font-size="13.5" font-weight="400" fill="#58626f">docs/experiments.csv (every run)</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15574.2" y="751.0" font-size="13.5" font-weight="400" fill="#58626f">docs/decisions.md (dated log)</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15574.2" y="769.0" font-size="13.5" font-weight="400" fill="#58626f">stages/&lt;S&gt;/README.md</text>
+<rect x="12900.6" y="675.6" width="160.6" height="60.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12910.6" y="696.2" font-size="12.5" font-weight="700" fill="#1a222c">app/web/ · capture</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12910.6" y="711.6" font-size="11.5" font-weight="400" fill="#58626f">camera via getUserMedia</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12910.6" y="726.6" font-size="11.5" font-weight="400" fill="#58626f">several frames per scan</text>
+<rect x="13171.2" y="753.1" width="125.8" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13181.2" y="773.7" font-size="12.5" font-weight="700" fill="#1a222c">POST /predict</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13181.2" y="789.1" font-size="11.5" font-weight="400" fill="#58626f">frames as multipart</text>
+<rect x="13407.0" y="675.6" width="185.7" height="60.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13417.0" y="696.2" font-size="12.5" font-weight="700" fill="#1a222c">skinscan.preprocess</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13417.0" y="711.6" font-size="11.5" font-weight="400" fill="#58626f">reused: 478 landmarks → crop</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13417.0" y="726.6" font-size="11.5" font-weight="400" fill="#58626f">→ skin mask → Shades-of-Gray</text>
+<rect x="13702.7" y="755.6" width="148.4" height="60.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13712.7" y="776.2" font-size="12.5" font-weight="700" fill="#1a222c">backbone + 5 heads</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13712.7" y="791.6" font-size="11.5" font-weight="400" fill="#58626f">MONET LoRA + Platt</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13712.7" y="806.6" font-size="11.5" font-weight="400" fill="#58626f">per-frame predictions</text>
+<rect x="13960.1" y="683.1" width="133.5" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13970.1" y="703.7" font-size="12.5" font-weight="700" fill="#1a222c">aggregate frames</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13970.1" y="719.1" font-size="11.5" font-weight="400" fill="#58626f">per-frame → per-face</text>
+<rect x="14203.6" y="745.6" width="126.6" height="60.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14213.6" y="766.2" font-size="12.5" font-weight="700" fill="#1a222c">rules engine</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14213.6" y="781.6" font-size="11.5" font-weight="400" fill="#58626f">reads rules.yaml:</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14213.6" y="796.6" font-size="11.5" font-weight="400" fill="#58626f">notes with citations</text>
+<rect x="14440.3" y="683.1" width="132.4" height="45.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14450.3" y="703.7" font-size="12.5" font-weight="700" fill="#1a222c">JSON profile</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14450.3" y="719.1" font-size="11.5" font-weight="400" fill="#58626f">returned to the page</text>
+<rect x="14682.6" y="728.1" width="157.4" height="75.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14692.6" y="748.7" font-size="12.5" font-weight="700" fill="#1a222c">app/web/ · results</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14692.6" y="764.1" font-size="11.5" font-weight="400" fill="#58626f">per-sign confidence bars</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14692.6" y="779.1" font-size="11.5" font-weight="400" fill="#58626f">“not a diagnosis” banner</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="14692.6" y="794.1" font-size="11.5" font-weight="400" fill="#58626f">CSS tokens to restyle</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13721.0" y="563.5" font-size="13.5" font-weight="700" fill="#1a222c">models/final/monet/</text>
+<rect x="15010.0" y="668.5" width="237.5" height="114.4" rx="10" fill="#ffffff" stroke="#8b94a3" stroke-width="1.3" stroke-dasharray="6 5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15024.0" y="696.1" font-size="16" font-weight="700" fill="#1a222c">later hosting (optional)</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15024.0" y="715.0" font-size="13.5" font-weight="400" fill="#58626f">HF Space (Docker SDK, CPU)</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15024.0" y="733.0" font-size="13.5" font-weight="400" fill="#58626f">or any small VPS</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15024.0" y="751.0" font-size="13.5" font-weight="400" fill="#58626f">weights pulled from a private HF</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15024.0" y="769.0" font-size="13.5" font-weight="400" fill="#58626f">model repo via a token secret</text>
+<rect x="15467.5" y="668.5" width="271.2" height="114.4" rx="10" fill="#ffffff" stroke="#1a222c" stroke-width="1.5"/>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15481.5" y="696.1" font-size="16" font-weight="700" fill="#1a222c">Inspect</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15481.5" y="715.0" font-size="13.5" font-weight="400" fill="#58626f">docs/CATALOGUE.md (master index)</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15481.5" y="733.0" font-size="13.5" font-weight="400" fill="#58626f">docs/experiments.csv (every run)</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15481.5" y="751.0" font-size="13.5" font-weight="400" fill="#58626f">docs/decisions.md (dated log)</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15481.5" y="769.0" font-size="13.5" font-weight="400" fill="#58626f">stages/&lt;S&gt;/README.md</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="70.0" y="1250.0" font-size="13.5" font-weight="400" fill="#58626f">all under data/raw/ · gitignored · never leaves the Mac</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="1081.0" y="600.1" font-size="13.5" font-weight="400" fill="#58626f">Mac · ≈1 day · done 19 Oct</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="2874.6" y="660.1" font-size="13.5" font-weight="400" fill="#58626f">201k images checked · 0 decode errors</text>
@@ -647,19 +648,19 @@
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="4886.0" y="541.1" font-size="13.5" font-weight="400" fill="#58626f">features computed on the skin mask only</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="6983.4" y="207.6" font-size="13.5" font-weight="400" fill="#58626f">Mac CPU, 4 threads · 1–2 days, minutes of compute</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7013.4" y="769.6" font-size="13.5" font-weight="400" fill="#58626f">Mac MPS · 10–19 min per run · done 20 Oct</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7073.4" y="1366.1" font-size="13.5" font-weight="400" fill="#58626f">~3 days</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7584.6" y="1578.2" font-size="12.5" font-weight="700" fill="#1a222c">verified picks</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7584.6" y="1595.4" font-size="12.5" font-weight="400" fill="#58626f">A  DINOv2-B · general</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7584.6" y="1612.7" font-size="12.5" font-weight="400" fill="#58626f">B  SigLIP 2 (+ OpenCLIP) · vision-language</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7584.6" y="1629.9" font-size="12.5" font-weight="400" fill="#58626f">C  FaRL · face</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7584.6" y="1647.2" font-size="12.5" font-weight="400" fill="#58626f">D  MONET · dermatology (DermLIP gated)</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7584.6" y="1664.4" font-size="12.5" font-weight="400" fill="#58626f">E  MiVOLO v2 · age</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7584.6" y="1681.7" font-size="12.5" font-weight="400" fill="#58626f">F  ConvNeXt-T · ImageNet control</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7584.6" y="1698.9" font-size="12.5" font-weight="400" fill="#58626f">LoRA: OpenCLIP, SigLIP 2 done · MONET running</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7073.4" y="1377.6" font-size="13.5" font-weight="400" fill="#58626f">~3 days</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7586.0" y="1578.2" font-size="12.5" font-weight="700" fill="#1a222c">verified picks</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7586.0" y="1595.4" font-size="12.5" font-weight="400" fill="#58626f">A  DINOv2-B · general</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7586.0" y="1612.7" font-size="12.5" font-weight="400" fill="#58626f">B  SigLIP 2 (+ OpenCLIP) · vision-language</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7586.0" y="1629.9" font-size="12.5" font-weight="400" fill="#58626f">C  FaRL · face</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7586.0" y="1647.2" font-size="12.5" font-weight="400" fill="#58626f">D  MONET · dermatology (DermLIP gated)</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7586.0" y="1664.4" font-size="12.5" font-weight="400" fill="#58626f">E  MiVOLO v2 · age</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7586.0" y="1681.7" font-size="12.5" font-weight="400" fill="#58626f">F  ConvNeXt-T · ImageNet control</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7586.0" y="1698.9" font-size="12.5" font-weight="400" fill="#58626f">LoRA: OpenCLIP, SigLIP 2, MONET done</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7462.1" y="961.7" font-size="13.5" font-weight="400" fill="#58626f">train at 128 px first, then 224</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7939.3" y="1374.4" font-size="13.5" font-weight="400" fill="#58626f">weights cached in models/hf (HF_HOME), gitignored</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8539.3" y="1582.7" font-size="13.5" font-weight="400" fill="#58626f">best frozen SCIN head/neck AUROC .59–.76 (DINOv2 .55–.71); age MAE 2.9 y MiVOLO</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9201.6" y="1374.9" font-size="13.5" font-weight="400" fill="#58626f">Mac MPS · 71 / 89 min (OpenCLIP / SigLIP 2) · MONET ≈ 24 min / epoch</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7940.7" y="1374.4" font-size="13.5" font-weight="400" fill="#58626f">weights cached in models/hf (HF_HOME), gitignored</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="8540.7" y="1582.7" font-size="13.5" font-weight="400" fill="#58626f">best frozen SCIN head/neck AUROC .59–.76 (DINOv2 .55–.71); age MAE 2.9 y MiVOLO</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="9203.0" y="1367.4" font-size="13.5" font-weight="400" fill="#58626f">Mac MPS · 71 / 89 min (OpenCLIP / SigLIP 2) · MONET ≈ 24 min / epoch</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10487.9" y="511.5" font-size="13.5" font-weight="400" fill="#58626f">Mac CPU · ~2 days</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10487.9" y="530.1" font-size="13.5" font-weight="400" fill="#58626f">tone labels slice results only, never a model input</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="12855.0" y="292.1" font-size="13.5" font-weight="400" fill="#58626f">~2 days · run locally: uvicorn, app in stages/S8_product/app/</text>
@@ -731,49 +732,49 @@
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7023.4" y="1208.6" font-size="12" font-weight="400" fill="#1a222c">SCIN head/neck signs AUROC 0.49–0.57: about chance</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7023.4" y="1225.2" font-size="12" font-weight="400" fill="#1a222c">no augmentation: val − train loss gap 0.57 vs 0.13</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7023.4" y="1241.7" font-size="12" font-weight="400" fill="#1a222c">2.44 M params · 10–19 min per run on MPS</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1629.5" font-size="12" font-weight="700" fill="#1a222c">where:</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1646.1" font-size="12" font-weight="400" fill="#58626f">stages/S6_open_weight_transfer/README.md  (“LoRA runs” section)</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1662.6" font-size="12" font-weight="400" fill="#58626f">stages/S6_open_weight_transfer/compare_backbones.py</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1679.2" font-size="12" font-weight="400" fill="#58626f">stages/S6_open_weight_transfer/finetune.py · run_lora_chain.sh</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1695.7" font-size="12" font-weight="400" fill="#58626f">stages/S6_open_weight_transfer/notebooks/02_backbone_comparison.ipynb</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1712.3" font-size="12" font-weight="400" fill="#58626f">stages/S6_open_weight_transfer/outputs/probes_all_backbones.csv</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1728.9" font-size="12" font-weight="400" fill="#58626f">stages/S6_open_weight_transfer/outputs/runs/&lt;run&gt;/  (LoRA)</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1745.4" font-size="12" font-weight="400" fill="#58626f">data/logs/S6_lora_&lt;run&gt;.log  (live, gitignored)</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1770.4" font-size="12" font-weight="700" fill="#1a222c">results so far:</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1787.0" font-size="12" font-weight="400" fill="#1a222c">probes, picked on val: SigLIP 2 erythema 0.66 ·</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1803.5" font-size="12" font-weight="400" fill="#1a222c">MONET hyperpigm. 0.77 (18 pos) · MiVOLO v2 age MAE 2.9 y</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1820.1" font-size="12" font-weight="400" fill="#1a222c">LoRA val composite: OpenCLIP 0.815 · SigLIP 2 0.817</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1836.7" font-size="12" font-weight="400" fill="#1a222c">(frozen probes 0.800 / 0.782) · MONET running</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1618.0" font-size="12" font-weight="700" fill="#1a222c">where:</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1634.6" font-size="12" font-weight="400" fill="#58626f">stages/S6_open_weight_transfer/README.md  (“LoRA runs” section)</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1651.1" font-size="12" font-weight="400" fill="#58626f">stages/S6_open_weight_transfer/compare_backbones.py</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1667.7" font-size="12" font-weight="400" fill="#58626f">stages/S6_open_weight_transfer/finetune.py · run_lora_chain.sh</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1684.2" font-size="12" font-weight="400" fill="#58626f">stages/S6_open_weight_transfer/notebooks/02_backbone_comparison.ipynb</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1700.8" font-size="12" font-weight="400" fill="#58626f">stages/S6_open_weight_transfer/outputs/probes_all_backbones.csv</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1717.4" font-size="12" font-weight="400" fill="#58626f">stages/S6_open_weight_transfer/outputs/runs/{openclip,siglip2,monet}/</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1733.9" font-size="12" font-weight="400" fill="#58626f">models/S6/&lt;run&gt;/best.pt · models/final/&lt;run&gt;/ (release models-v1)</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1758.9" font-size="12" font-weight="700" fill="#1a222c">results:</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1775.5" font-size="12" font-weight="400" fill="#1a222c">LoRA val composite: MONET 0.832 · SigLIP 2 0.817 · OpenCLIP 0.815</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1792.0" font-size="12" font-weight="400" fill="#1a222c">(frozen probes: MONET 0.791 · SigLIP 2 0.782 · OpenCLIP 0.800)</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1808.6" font-size="12" font-weight="400" fill="#1a222c">MONET LoRA test vs best probe: erythema 0.70 vs 0.66,</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="7063.4" y="1825.2" font-size="12" font-weight="400" fill="#1a222c">refer 0.70 vs 0.65 · age MAE 2.81 y vs MiVOLO 2.90 y</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="733.5" font-size="12" font-weight="700" fill="#1a222c">where:</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="750.1" font-size="12" font-weight="400" fill="#58626f">stages/S7_comparison_analysis/README.md</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="766.6" font-size="12" font-weight="400" fill="#58626f">stages/S7_comparison_analysis/run_comparison.py</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="783.2" font-size="12" font-weight="400" fill="#58626f">stages/S7_comparison_analysis/explain.py</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="799.7" font-size="12" font-weight="400" fill="#58626f">stages/S7_comparison_analysis/notebooks/01_comparison_v1.ipynb</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="816.3" font-size="12" font-weight="400" fill="#58626f">stages/S7_comparison_analysis/outputs/master_table.md</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="832.9" font-size="12" font-weight="400" fill="#58626f">stages/S7_comparison_analysis/outputs/headline_per_target.csv</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="766.6" font-size="12" font-weight="400" fill="#58626f">stages/S7_comparison_analysis/run_comparison.py · select_winners.py</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="783.2" font-size="12" font-weight="400" fill="#58626f">stages/S7_comparison_analysis/notebooks/02_comparison_v2.ipynb</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="799.7" font-size="12" font-weight="400" fill="#58626f">stages/S7_comparison_analysis/outputs/master_table.md</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="816.3" font-size="12" font-weight="400" fill="#58626f">stages/S7_comparison_analysis/outputs/winners.csv</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="832.9" font-size="12" font-weight="400" fill="#58626f">stages/S7_comparison_analysis/outputs/calibration_app_model.csv</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="849.4" font-size="12" font-weight="400" fill="#58626f">stages/S7_comparison_analysis/outputs/domain_shift.csv</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="866.0" font-size="12" font-weight="400" fill="#58626f">stages/S7_comparison_analysis/outputs/calibration.csv</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="891.0" font-size="12" font-weight="700" fill="#1a222c">results (v1, no LoRA):</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="907.5" font-size="12" font-weight="400" fill="#1a222c">clinic → phone drop ≈ −0.2 AUROC (erythema 0.88 → 0.66)</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="924.1" font-size="12" font-weight="400" fill="#1a222c">mean of 2–3 frames vs one random frame: +0.02–0.04 AUROC</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="940.7" font-size="12" font-weight="400" fill="#1a222c">Platt on SCIN-only val: erythema ECE 0.06</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="957.2" font-size="12" font-weight="400" fill="#1a222c">(temperature scaling only 0.20 → 0.18)</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="866.0" font-size="12" font-weight="400" fill="#58626f">(01_comparison_v1.ipynb = pre-LoRA record)</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="891.0" font-size="12" font-weight="700" fill="#1a222c">results (v2, final):</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="907.5" font-size="12" font-weight="400" fill="#1a222c">MONET LoRA wins 7 / 8 on val; acne grade: OpenCLIP probe</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="924.1" font-size="12" font-weight="400" fill="#1a222c">SCIN test AUROC erythema 0.70 [0.64, 0.76] · refer 0.70 [0.65, 0.74]</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="940.7" font-size="12" font-weight="400" fill="#1a222c">clinic → phone drop still ≈ −0.2; Monk 5–6 gap ≈ 0.15</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="10467.9" y="957.2" font-size="12" font-weight="400" fill="#1a222c">Platt on SCIN val: refer ECE 0.087 → 0.044</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13285.0" y="149.0" font-size="12" font-weight="700" fill="#1a222c">where:</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13285.0" y="165.6" font-size="12" font-weight="400" fill="#58626f">stages/S8_product/README.md</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13285.0" y="182.1" font-size="12" font-weight="400" fill="#58626f">stages/S8_product/run_local.sh</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13285.0" y="198.7" font-size="12" font-weight="400" fill="#58626f">stages/S8_product/app/server.py</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13285.0" y="215.3" font-size="12" font-weight="400" fill="#58626f">stages/S8_product/app/web/</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13285.0" y="231.8" font-size="12" font-weight="400" fill="#58626f">stages/S8_product/rules.yaml · citations.yaml</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13285.0" y="248.4" font-size="12" font-weight="400" fill="#58626f">stages/S8_product/bundles/s5_placeholder/</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13285.0" y="264.9" font-size="12" font-weight="400" fill="#58626f">stages/S8_product/configs/app.yaml</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13285.0" y="248.4" font-size="12" font-weight="400" fill="#58626f">stages/S8_product/bundles/monet/thresholds.yaml</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13285.0" y="264.9" font-size="12" font-weight="400" fill="#58626f">stages/S8_product/configs/app.yaml → models/final/monet</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13285.0" y="281.5" font-size="12" font-weight="400" fill="#58626f">src/skinscan/infer.py</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13496.0" y="354.5" font-size="12" font-weight="700" fill="#1a222c">so far:</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13496.0" y="371.1" font-size="12" font-weight="400" fill="#1a222c">/predict ≈ 55 ms per request on CPU (3 frames)</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13496.0" y="387.6" font-size="12" font-weight="400" fill="#1a222c">19 rules · 23 references · 48 tests</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13496.0" y="404.2" font-size="12" font-weight="400" fill="#1a222c">S6 winner = one line in configs/app.yaml</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15560.2" y="823.4" font-size="12.5" font-weight="400" fill="#58626f">open notebooks in VS Code or `jupyter lab` from the</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15560.2" y="840.7" font-size="12.5" font-weight="400" fill="#58626f">phm5005-ml env;</text>
-<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15560.2" y="857.9" font-size="12.5" font-weight="400" fill="#58626f">run the app with stages/S8_product/run_local.sh</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13496.0" y="371.1" font-size="12" font-weight="400" fill="#1a222c">MONET LoRA installed; Platt + thresholds from S7</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13496.0" y="387.6" font-size="12" font-weight="400" fill="#1a222c">/predict ≈ 0.36 s per request on CPU (3 frames)</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="13496.0" y="404.2" font-size="12" font-weight="400" fill="#1a222c">19 rules · 23 references · 50 tests</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15467.5" y="823.4" font-size="12.5" font-weight="400" fill="#58626f">open notebooks in VS Code or `jupyter lab` from the</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15467.5" y="840.7" font-size="12.5" font-weight="400" fill="#58626f">phm5005-ml env;</text>
+<text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="15467.5" y="857.9" font-size="12.5" font-weight="400" fill="#58626f">run the app with stages/S8_product/run_local.sh</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="60.0" y="1980.0" font-size="12" font-weight="700" fill="#23874f" letter-spacing="0.06em">DONE</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="122.2" y="1980.0" font-size="12" font-weight="700" fill="#b86e00" letter-spacing="0.06em">IN PROGRESS</text>
 <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" x="240.8" y="1980.0" font-size="12" font-weight="700" fill="#b86e00" letter-spacing="0.06em">PENDING</text>
